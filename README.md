@@ -45,13 +45,13 @@ python enhance.py --input <low_res_image> --output <high_res_output>
 ## Dependencies
 This project relies on the following libraries and frameworks:
 
-Python 3.x
-TensorFlow
-Keras
-NumPy
-Matplotlib
-OpenCV
-Scikit-learn
+- Python 3.x
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+- OpenCV
+- Scikit-learn
 
 You can install these dependencies using pip:
 ```bash
